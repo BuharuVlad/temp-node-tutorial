@@ -1,0 +1,19 @@
+comenzi git:
+initializare git:
+git init
+
+pentru ce o fi comanda?
+git add .
+
+pentru a face un commit avem:
+
+
+pentru a adauga toate fisierele din proiect avem cele 3 comenzi:
+git remote add origin https://github.com/BuharuVlad/temp-node-tutorial.git
+git branch -M main
+git push -u origin main
+
+pentru a crea o clona
+git clone link-din-git
+exemplu:
+git clone https://github.com/BuharuVlad/temp-node-tutorial.git
