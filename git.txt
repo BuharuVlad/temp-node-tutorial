@@ -17,3 +17,8 @@ pentru a crea o clona
 git clone link-din-git
 exemplu:
 git clone https://github.com/BuharuVlad/temp-node-tutorial.git
+
+push
+git push https://github.com/BuharuVlad/temp-node-tutorial.git
+
+
